@@ -65,9 +65,9 @@
 ## 🛠 专业技能
 
 <SkillGrid :categories="[
-  { name: '前端框架与核心库', skills: ['React', 'Next.js (App Router)', 'Vue 3', 'SSR/SSG', 'Ant Design 5'] },
+  { name: '前端框架与核心库', skills: ['React', 'Next.js (App Router)', 'Vue', 'SSR/SSG', 'Ant Design 5'] },
   { name: '状态流与工程构建', skills: ['Redux', 'Vuex', 'Zustand', 'Webpack', 'Vite', 'Tailwind CSS'] },
-  { name: '全栈能力与工程部署', skills: ['JavaScript / TypeScript', 'Python', 'Node.js', 'GitHub Actions', 'ArgoCD / Kustomize', 'Docker'] }
+  { name: '全栈能力与工程部署', skills: ['JavaScript / TypeScript', 'Python', 'GitHub Actions', 'ArgoCD / Kustomize', 'Docker'] }
 ]" />
 
 ## 🎓 教育经历
