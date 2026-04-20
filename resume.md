@@ -1,7 +1,7 @@
 # 个人简历
 
 <div class="resume-pdf-btn-container">
-  <a href="/resume.pdf" class="custom-badge print-btn" target="_blank">
+  <a href="/myResume/resume.pdf" class="custom-badge print-btn" target="_blank">
     📥 下载 PDF 简历
   </a>
 </div>
