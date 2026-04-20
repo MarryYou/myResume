@@ -1,5 +1,29 @@
 {
 	"devDependencies": {
-		"vitepress": "2.0.0-alpha.17"
-	}
+		"typescript": "^6.0.3",
+		"vitepress": "2.0.0-alpha.17",
+		"vue": "^3.5.32"
+	},
+	"name": "myresume",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "vitepress dev",
+		"build": "vitepress build",
+		"preview": "vitepress preview"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MarryYou/myResume.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/MarryYou/myResume/issues"
+	},
+	"homepage": "https://github.com/MarryYou/myResume#readme"
 }
