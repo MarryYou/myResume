@@ -2,6 +2,7 @@ export default {
   lang: 'zh',
   title: '个人主页',
   description: '范浩天的在线简历 - Fan Haotian\'s Resume',
+  base: '/myResume/',
   srcExclude: ['**/specs/**'],
   themeConfig: {
     nav: [
