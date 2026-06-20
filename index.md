@@ -14,7 +14,7 @@ hero:
       link: /resume
     - theme: alt
       text: 深入了解
-      link: /projects
+      link: /blog/
 
 features:
   - title: React / Next.js (SSR)
@@ -44,6 +44,22 @@ features:
   background-color: var(--vp-c-brand-soft);
 }
 </style>
+
+## 🚀 个人项目
+
+<div class="vp-doc custom-project-cards">
+
+### 🔍 TruthSeeker — 深度研究与信源核查引擎
+
+基于 LangGraph 状态机驱动的 AI 研究管道，多维度拆解问题、并发检索全网信源、交叉验证事实一致性。
+
+[GitHub 源码](https://github.com/MarryYou/truthseeker-website)
+
+📖 [阅读技术博客（共 9 篇）→](/blog/truthseeker/01-product-overview)
+
+</div>
+
+---
 
 <div class="home-contact-info">
   <p>如果您正在寻找一位扎实且富有探索力的资深前端开发，欢迎随时联系我：</p>
