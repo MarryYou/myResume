@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "范浩天"
-  text: "前端开发工程师"
-  tagline: "8 年开发经验 | 深耕 前端架构、SSR、跨端插件 与 大型系统演进"
+  text: "全栈工程师（偏前端）"
+  tagline: "8 年全栈开发经验 | Next.js SSR/SSE 实时流 | AI 工程化 (LangGraph) | 前端架构设计"
   image:
     src: /hero.png
     alt: Developer Avatar
@@ -17,18 +17,18 @@ hero:
       link: /blog/
 
 features:
-  - title: React / Next.js (SSR)
-    details: 精通现代前端框架，能够主导大型应用的架构重构与服务端渲染性能优化。
-  - title: 前置与架构设计
-    details: 具备核心模块与 API 网关等重度基建落地经验，擅长运用特性开关及高级状态管理。
-  - title: Vue / TypeScript
-    details: 拥抱强类型生态与双框架应用体系，胜任各类场景的组件工程化抽离。
-  - title: 全栈与工具生态
-    details: 具备 Node.js/Python 服务端扩展视野，并在跨终端生态 (如 Figma 插件开发) 有成熟打磨。
-  - title: CI/CD 自动化部署
-    details: 深入运用 GitHub Actions, Docker, ArgoCD，建立并主导高水准的 GitOps 实践闭环。
-  - title: 测试化与质量保证
-    details: 从头牵头建设可视化自动测试平台，对前端项目的监控、异常捕捉与长效容错有充分实战经验。
+  - title: React / Next.js (SSR/SSG)
+    details: 深度掌握 Next.js 15 App Router，主导企业级 SSR 架构迁移，首屏性能优化 40%+。
+  - title: 全栈工程化 (Node.js/Python)
+    details: 具备 Node.js/Python 后端开发能力，独立设计 API 网关、微服务跨域方案与权限管理体系。
+  - title: SSE 实时流与 AI 工程化
+    details: 实践 SSE 实时推送、LangGraph 状态机编排、多租户 SaaS 架构，具备 AI 应用全栈交付能力。
+  - title: TypeScript / 跨端插件
+    details: 拥抱强类型生态，精通 Figma 插件开发 (Preact)，胜任跨终端生态工程化落地。
+  - title: CI/CD 与 GitOps 部署
+    details: 深入运用 GitHub Actions + ArgoCD/Kustomize，建立并主导 GitOps 持续交付流水线。
+  - title: 前端架构与技术管理
+    details: 担任前端技术负责人，主导技术选型与架构评审，指导初中级开发，推动团队工程规范落地。
 ---
 
 <style>
@@ -62,6 +62,6 @@ features:
 ---
 
 <div class="home-contact-info">
-  <p>如果您正在寻找一位扎实且富有探索力的资深前端开发，欢迎随时联系我：</p>
+  <p>如果您正在寻找一位扎实且富有探索力的全栈工程师，欢迎随时联系我：</p>
   <p>📞 <code>18251886173</code> &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ <code>18251886173@163.com</code></p>
 </div>
